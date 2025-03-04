@@ -1,7 +1,3 @@
-# WARNING
-You are currently in the roshambo games developer branch. Files and items in this branch are not in the release version of the game, and may be work-in-progress.
-To see the main branch, [click this link.](https://github.com/eight-eighty-eight/interrobangrr)
-
 # interrobangrr
 Welcome to the official ^Interrobang (Rec Room) Github Repo!
 
