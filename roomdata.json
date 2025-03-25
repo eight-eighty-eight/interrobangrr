@@ -1,0 +1,61 @@
+{
+    "RoomId": 948235061312293921,
+    "Name": "Interrobang",
+    "Description": "The oil of every pearls un-insides.\n\nCompletely lost and disoriented, you must make your way out of a mysterious facility by solving puzzles.",
+    "ImageName": "bu6nbhrrr1dpgqothcmol9j2u.jpg",
+    "WarningMask": 32,
+    "CustomWarning": "Screen Mode users will experience problems playing through the experience.",
+    "CreatorAccountId": 1909502814,
+    "PublishState": 0,
+    "SupportsLevelVoting": false,
+    "IsRRO": false,
+    "IsRecRoomApproved": false,
+    "ExcludeFromLists": false,
+    "ExcludeFromSearch": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": false,
+    "SupportsVRLow": true,
+    "SupportsQuest2": true,
+    "SupportsMobile": true,
+    "SupportsJuniors": true,
+    "MinLevel": 0,
+    "AgeRating": 1,
+    "CreatedAt": "2024-12-16T07:04:55.2580047Z",
+    "PublishedAt": "2025-03-20T05:19:09.9177899Z",
+    "BecameRRStudioRoomAt": "2025-03-06T08:32:05.1738478Z",
+    "Stats": {
+        "CheerCount": 2,
+        "FavoriteCount": 1,
+        "VisitorCount": 7,
+        "VisitCount": 71
+    },
+    "IsDorm": false,
+    "MaxPlayers": 1,
+    "UgcSubVersion": 176,
+    "MinUgcSubVersion": 171,
+    "IsJuniorCreated": false,
+    "Tags": [
+        {
+            "Tag": "quest",
+            "Type": 0
+        },
+        {
+            "Tag": "puzzle",
+            "Type": 0
+        },
+        {
+            "Tag": "beta",
+            "Type": 1
+        },
+        {
+            "Tag": "game",
+            "Type": 0,
+            "IsPrimaryGenre": true
+        },
+        {
+            "Tag": "rrstudio",
+            "Type": 2
+        }
+    ]
+}
