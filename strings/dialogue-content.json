@@ -5,6 +5,6 @@
     "eventTitle": "Notification"
     "warningContentsDefault": "This action is destructive. Are you **sure** you want to continue?"
     "irreversibleContentsDefault": "This action cannot be undone. Are you **sure** you want to continue?"
-    "consentContentsDefault": "Are you sure you want to do this?"
+    "consentContentsDefault": "You ready to continue?"
     "eventContentsDefault": null
 }
