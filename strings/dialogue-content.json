@@ -1,8 +1,10 @@
 {
-    "warningTitle": "Wait!"
+    "warningTitle": "Read me!"
+    "irreversibleTitle": "Caution!"
+    "consentTitle": "Before we do this..."
+    "eventTitle": "Notification"
     "warningContentsDefault": "This action is destructive. Are you **sure** you want to continue?"
-    "irreversibleTitle": "Caution"
     "irreversibleContentsDefault": "This action cannot be undone. Are you **sure** you want to continue?"
-    "consentTitle": "Wait!"
     "consentContentsDefault": "Are you sure you want to do this?"
+    "eventContentsDefault": null
 }
