@@ -1,10 +1,14 @@
 {
-    "warningTitle": "Read me!"
-    "irreversibleTitle": "Caution!"
-    "consentTitle": "Before we do this..."
-    "eventTitle": "Notification"
-    "warningContentsDefault": "This action is destructive. Are you **sure** you want to continue?"
-    "irreversibleContentsDefault": "This action cannot be undone. Are you **sure** you want to continue?"
-    "consentContentsDefault": "You ready to continue?"
-    "eventContentsDefault": null
+    "titles": {
+        "warningTitle": "Read me!",
+        "irreversibleTitle": "Caution!",
+        "consentTitle": "Before we do this...",
+        "eventTitle": "Notification"
+    },
+    "contents": {
+        "warningDefaultContents": "This action is destructive. Are you **sure** you want to continue?",
+        "irreversibleDefaultContents": "This action cannot be undone. Are you **sure** you want to continue?",
+        "consentDefaultContents": "You ready to continue?",
+        "eventDefaultContents": null
+    }
 }
